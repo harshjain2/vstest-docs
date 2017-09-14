@@ -1,6 +1,6 @@
 # Release Notes
 
-## 15.5.0-preview-20170810-02
+## 15.5.0-preview-20170914-09
 
 ### Issue Fixed
 * https://github.com/Microsoft/vstest/issues/861
@@ -17,9 +17,9 @@ A list of all changes since last release are available [here](https://github.com
 
 ### Drops
 
-* TestPlatform vsix: [15.5.0-preview-20170810-02](https://vsdrop.corp.microsoft.com/file/v1/Products/DevDiv/Microsoft/vstest/master/20170810-02;/TestPlatform.vsix)
+* TestPlatform vsix: [15.5.0-preview-20170914-09](https://vsdrop.corp.microsoft.com/file/v1/Products/DevDiv/Microsoft/vstest/master/20170914-09;/TestPlatform.vsix)
 
-* Microsoft.TestPlatform.ObjectModel: [15.5.0-preview-20170810-02](https://www.nuget.org/packages/Microsoft.TestPlatform.ObjectModel/15.5.0-preview-20170810-02)
+* Microsoft.TestPlatform.ObjectModel: [15.5.0-preview-20170914-09](https://www.nuget.org/packages/Microsoft.TestPlatform.ObjectModel/15.5.0-preview-20170914-09)
 
 
 ## 15.5.0-preview-20170727-01
